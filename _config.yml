@@ -1,0 +1,9 @@
+title: Dutch Expressions
+description: Developer website for Dutch Expressions
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+include:
+  - app-ads.txt
